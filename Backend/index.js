@@ -32,5 +32,5 @@ app.listen(PORT, () => {
 
 // Default route
 app.use('/', (req, res) => {
-    res.send("<h1> Welcome to SUBY</h1>");
+    res.send("<h1> Welcome to 7 Hills Food Delivery </h1>");
 });
