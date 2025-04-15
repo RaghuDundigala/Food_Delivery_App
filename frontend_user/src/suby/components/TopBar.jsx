@@ -10,9 +10,7 @@ const TopBar = () => {
             </Link>
         </div>
         
-        <div className="userAuth">
-            <h3>Login / SignUp</h3>
-        </div>
+       
    </section>
   )
 }
